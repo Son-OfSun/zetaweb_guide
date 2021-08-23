@@ -47,7 +47,7 @@
 
 ## Разграничение прав доступа к html-контейнеру
 
-После записи вновь-созданного html-контейнера вы можете настраивать доступность этого контейнера различным группам пользователей.
+После записи вновь созданного html-контейнера вы можете настраивать доступность этого контейнера различным группам пользователей.
 
 Для настройки прав перейдите на вкладку **Доступ ролей**. Установите флажок напротив тех ролей, которым должен быть доступен html-контент и нажмите кнопку **Записать**.
 
@@ -114,7 +114,7 @@
 * **Строка** - строковое представление ссылки
 * **Картинка \(Zeta Web\)** - ссылка в виде изображения 
 
-Значение полей **Подсказка**, **Класс** и **Targe**" добавится в атрибуты **title, class и target** соответственно для тега &lt;**a&gt;.**
+Значение полей **Подсказка**, **Класс** и **Target**" добавится в атрибуты **title, class и target** соответственно для тега **&lt;a&gt;.**
 
 #### **Быстрое добавление**
 
@@ -137,7 +137,7 @@
 #### Пример сгенерированного html-кода
 
 ```markup
-<a title="Переход на гоавную страницу" class="clearfix" href="#" zw="PABQAHIAbwBwAGUAcgB0AGkAZQBzAD4APABUAHkAcABlAEkARAA+AFQAQQBCAHAAQQBHADQAQQBhAHcAQQA9ADwALwBUAHkAcABlAEkARAA+ADwAQwBsAGEAcwBzAD4AWQB3AEIAcwBBAEcAVQBBAFkAUQBCAHkAQQBHAFkAQQBhAFEAQgA0AEEAQQA9AD0APAAvAEMAbABhAHMAcwA+ADwAVABhAHIAZwBlAHQAPgBYAHcAQgB6AEEARwBVAEEAYgBBAEIAbQBBAEEAPQA9ADwALwBUAGEAcgBnAGUAdAA+ADwAVABpAHQAbABlAD4ASAB3AFEAMQBCAEUAQQBFAE4AUQBSAEYAQgBEADQARQBOAEEAUQBnAEEARAAwAEUATQBBAFEAZwBBAEQATQBFAFAAZwBRAHcAQgBEAEkARQBQAFEAUgBEAEIARQA0AEUASQBBAEIAQgBCAEUASQBFAFEAQQBRAHcAQgBEADAARQBPAEEAUgBHAEIARQBNAEUAPAAvAFQAaQB0AGwAZQA+ADwASAByAGUAZgA+AE4AZwBBADAAQQBHAFkAQQBaAFEAQQB6AEEARABRAEEAWgBnAEEAegBBAEMAMABBAE4AUQBCAG0AQQBHAFEAQQBPAFEAQQB0AEEARABFAEEATQBRAEIAbABBAEQAWQBBAEwAUQBBADUAQQBEAFEAQQBaAGcAQQB3AEEAQwAwAEEATQBBAEEAdwBBAEQARQBBAE4AUQBBADEAQQBHAFEAQQBNAFEAQQAxAEEARwBVAEEATQB3AEEAeABBAEQAUQBBADwALwBIAHIAZQBmAD4APAAvAFAAcgBvAHAAZQByAHQAaQBlAHMAPgA=">
+<a title="Переход на главную страницу" class="clearfix" href="#" zw="PABQAHIAbwBwAGUAcgB0AGkAZQBzAD4APABUAHkAcABlAEkARAA+AFQAQQBCAHAAQQBHADQAQQBhAHcAQQA9ADwALwBUAHkAcABlAEkARAA+ADwAQwBsAGEAcwBzAD4AWQB3AEIAcwBBAEcAVQBBAFkAUQBCAHkAQQBHAFkAQQBhAFEAQgA0AEEAQQA9AD0APAAvAEMAbABhAHMAcwA+ADwAVABhAHIAZwBlAHQAPgBYAHcAQgB6AEEARwBVAEEAYgBBAEIAbQBBAEEAPQA9ADwALwBUAGEAcgBnAGUAdAA+ADwAVABpAHQAbABlAD4ASAB3AFEAMQBCAEUAQQBFAE4AUQBSAEYAQgBEADQARQBOAEEAUQBnAEEARAAwAEUATQBBAFEAZwBBAEQATQBFAFAAZwBRAHcAQgBEAEkARQBQAFEAUgBEAEIARQA0AEUASQBBAEIAQgBCAEUASQBFAFEAQQBRAHcAQgBEADAARQBPAEEAUgBHAEIARQBNAEUAPAAvAFQAaQB0AGwAZQA+ADwASAByAGUAZgA+AE4AZwBBADAAQQBHAFkAQQBaAFEAQQB6AEEARABRAEEAWgBnAEEAegBBAEMAMABBAE4AUQBCAG0AQQBHAFEAQQBPAFEAQQB0AEEARABFAEEATQBRAEIAbABBAEQAWQBBAEwAUQBBADUAQQBEAFEAQQBaAGcAQQB3AEEAQwAwAEEATQBBAEEAdwBBAEQARQBBAE4AUQBBADEAQQBHAFEAQQBNAFEAQQAxAEEARwBVAEEATQB3AEEAeABBAEQAUQBBADwALwBIAHIAZQBmAD4APAAvAFAAcgBvAHAAZQByAHQAaQBlAHMAPgA=">
 	На главную
 </a>
 ```
@@ -170,7 +170,7 @@
 
 ### Добавление вложенного html-контейнера в визуальном редакторе
 
-Перейдите не вкладку **Переменные** и перетащите элемент **Ссылка** в окно визуального редактора.
+Перейдите на вкладку **Переменные** и перетащите элемент **Ссылка** в окно визуального редактора.
 
 ![](../../.gitbook/assets/image%20%28547%29.png)
 
@@ -206,7 +206,7 @@
 
 {% hint style="info" %}
 У каждого контрола индивидуальный набор параметров.  
-Параметры бывают обязательные \(отмечены галочкой\) и общими \(например, размер станицы выводимых контролом данных\).
+Параметры бывают обязательные \(отмечены галочкой\) и общие \(например, размер станицы выводимых контролом данных\).
 {% endhint %}
 
 #### Редактирование параметров контрола
